@@ -1,2 +1,4 @@
-# SpringBootJMX
+﻿# SpringBootJMX
 基于SpringBoot，用JMX实现动态修改参数及日志级别。
+还没完全搞明白，智能动态改变本项目的，其他项目的无法修改。
+感觉用处不大，需耦合项目代码
